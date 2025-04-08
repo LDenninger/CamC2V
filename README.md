@@ -6,7 +6,7 @@
 <sup>1</sup>University of Bonn, Germany
 <sup>2</sup>Lamarr Institute for Machine Learning and Artificial Intelligence
 
-<a href=""><img src='https://img.shields.io/badge/arXiv-CamContextI2V-red' alt='Paper PDF'></a>
+<a href=""><img src='https://img.shields.io/badge/arXiv-Coming Soon-red' alt='Paper PDF'></a>
 <a href="misc/camcontexti2v_preprint.pdf"><img src='https://img.shields.io/badge/Paper-CamContextI2V-blue' alt='Paper PDF'></a>
 <a href='https://huggingface.co/LDenninger/CamContextI2V/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoints-yellow'></a>
 </div>
@@ -125,7 +125,7 @@ We thank the authors of [CamI2V](https://github.com/ZGCTroy/CamI2V) for their im
 ```
 @article{denninger2025camcontexti2v,
   title={CamContextI2V: Context-aware Controllable Video Generation},
-  author={Denninger, Luis and Mokhtarzadeh Azar, Sin and Gall, Juergen},
+  author={Denninger, Luis and Mokhtarzadeh Azar, Sina and Gall, Juergen},
   journal={},
   year={2025}
 }
