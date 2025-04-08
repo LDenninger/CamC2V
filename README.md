@@ -1,16 +1,19 @@
 <div align="center">
 <h2>CamContextI2V: Context-aware Controllable Video Generation</h2>
 
-[**Luis Denninger**](https://scholar.google.com/citations?user=1UK2mMsAAAAJ&hl=en)<sup>1</sup> · [**Sina Mokhtarzadeh Azar**](https://scholar.google.com/citations?user=kojTGo8AAAAJ&hl=en)<sup>1</sup> · [**Jürgen Gall**](https://pages.iai.uni-bonn.de/gall_juergen/)<sup>1</sup> · 
+[**Luis Denninger**](https://scholar.google.com/citations?user=1UK2mMsAAAAJ&hl=en)<sup>1</sup> · [**Sina Mokhtarzadeh Azar**](https://scholar.google.com/citations?user=kojTGo8AAAAJ&hl=en)<sup>1</sup> · [**Jürgen Gall**](https://pages.iai.uni-bonn.de/gall_juergen/)<sup>1,2</sup> · 
 
 <sup>1</sup>University of Bonn, Germany
-
+<sup>2</sup>Lamarr Institute for Machine Learning and Artificial Intelligence
 
 <a href=""><img src='https://img.shields.io/badge/arXiv-CamContextI2V-red' alt='Paper PDF'></a>
+<a href="misc/camcontexti2v_preprint.pdf"><img src='https://img.shields.io/badge/Paper-CamContextI2V-blue' alt='Paper PDF'></a>
 <a href='https://huggingface.co/LDenninger/CamContextI2V/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoints-yellow'></a>
 </div>
 
 ![](./misc/results.png)
+
+
 
 ## 📈 Results
 All our results are reported after 50K training steps using 25 DDIM steps with a guidance scale of 7.5 as reported by the baseline.
