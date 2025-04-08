@@ -1,0 +1,32 @@
+{
+    "CamContextI2V": {
+        "config_file": "configs/models/camcontexti2v_256.yaml",
+        "ckpt_path": "ckpts/256_camcontexti2v.pt",
+        "width": 256,
+        "height": 256
+    },
+    "CamI2V": {
+        "config_file": "configs/baseline/cami2v_256.yaml",
+        "ckpt_path": "ckpts/256_cami2v.pt",
+        "width": 256,
+        "height": 256
+    },
+    "CameraCtrl": {
+        "config_file": "configs/baseline/cameractrl_256.yaml",
+        "ckpt_path": "ckpts/256_cameractrl.pt",
+        "width": 256,
+        "height": 256
+    },
+    "MotionCtrl": {
+        "config_file": "configs/baseline/motionctrl_256.yaml",
+        "ckpt_path": "ckpts/256_motionctrl.pt",
+        "width": 256,
+        "height": 256
+    },
+    "DynamiCrafter": {
+        "config_file": "configs/baseline/dynamicrafter_256.yaml",
+        "ckpt_path": "ckpts/dynamicrafter/model.ckpt",
+        "width": 256,
+        "height": 256
+    }
+}
