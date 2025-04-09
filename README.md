@@ -6,7 +6,7 @@
 <sup>1</sup>University of Bonn, Germany
 <sup>2</sup>Lamarr Institute for Machine Learning and Artificial Intelligence
 
-<a href=""><img src='https://img.shields.io/badge/arXiv-Coming Soon-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2504.06022v1"><img src='https://img.shields.io/badge/arXiv-2504.06022-red' alt='Paper PDF'></a>
 <a href="misc/camcontexti2v_preprint.pdf"><img src='https://img.shields.io/badge/Paper-CamContextI2V-blue' alt='Paper PDF'></a>
 <a href='https://huggingface.co/LDenninger/CamContextI2V/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoints-yellow'></a>
 </div>
