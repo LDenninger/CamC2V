@@ -1,5 +1,5 @@
 <div align="center">
-<h2>CamContextI2V: Context-aware Controllable Video Generation</h2>
+<h2>CamC2V: Context-aware Controllable Video Generation</h2>
 
 [**Luis Denninger**](https://scholar.google.com/citations?user=1UK2mMsAAAAJ&hl=en)<sup>1</sup> · [**Sina Mokhtarzadeh Azar**](https://scholar.google.com/citations?user=kojTGo8AAAAJ&hl=en)<sup>1</sup> · [**Jürgen Gall**](https://pages.iai.uni-bonn.de/gall_juergen/)<sup>1,2</sup> · 
 
