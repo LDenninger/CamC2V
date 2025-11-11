@@ -188,3 +188,5 @@ configs/generated
 *.ckpt
 *.pth
 *.mp4
+
+!static/videos/*
